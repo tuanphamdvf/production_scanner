@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+        <menuitem id="owl_menuitem_root" name="Dashboard" sequence="0"
+                  web_icon="production_scanner,static/img/icon.png"/>
+        <menuitem id="owl_menuitem_root_widget" parent="owl_menuitem_root" name="Dashboard" sequence="0"
+                  action="owl_customer_view"/>
+    </data>
+</odoo>
