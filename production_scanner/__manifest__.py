@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Autocomplete Production With Barcode",
+    'name': "Barcode Production Auto-Completion",
     "summary": "The module provides a barcode integration API for creating, initiating, commanding production, completing stages, pausing production commands, and searching for production commands, along with a mobile application.",
     'description': """The module provides a barcode integration API for creating, initiating, commanding production, completing stages, pausing production commands, and searching for production commands, along with a mobile application..
     """,
